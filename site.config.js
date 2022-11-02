@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: null,
-  github: 'frankcbliu',
+  github: 'Aiden128',
 //   wechatPublicName: 'aiden',
 //   wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
   notionPublic: 'https://www.notion.so/Aiden-Minute-24b711fba6944b72b916ecb4c3c28c3f',
