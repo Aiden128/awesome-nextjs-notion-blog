@@ -7,21 +7,21 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '菜饼的技术博客',
-  domain: 'szufrank.top',
-  author: '菜饼同学',
+  name: 'aiden-minute',
+  domain: 'aiden-minute.vercel.app',
+  author: 'aiden',
 
   // open graph metadata (optional)
-  description: '菜饼同学: 专注硬核技术，校招打法，个人认知体系成长',
-  socialImageTitle: '菜饼同学',
-  socialImageSubtitle: 'Hello World! 👋',
+//   description: '菜饼同学: 专注硬核技术，校招打法，个人认知体系成长',
+//   socialImageTitle: '菜饼同学',
+//   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: null,
   github: 'frankcbliu',
-  wechatPublicName: '菜饼不菜',
-  wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
-  notionPublic: 'https://frankcbliu.notion.site/6a76fdd9ec6d4ae2855aa790d620eec4',
+//   wechatPublicName: 'aiden',
+//   wechatPublicURL: 'https://mp.weixin.qq.com/s?__biz=MzkxMzIyOTI1Mg==&mid=2247486027&idx=1&sn=2840f0b8cfdc982b9095dd18ec9892e5',
+  notionPublic: 'https://www.notion.so/Aiden-Minute-24b711fba6944b72b916ecb4c3c28c3f',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
@@ -34,8 +34,8 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: 'frankcbliu/awesome-nextjs-notion-blog',
-  utterancesGitHubLabel: '博客评论',
+//   utterancesGitHubRepo: 'frankcbliu/awesome-nextjs-notion-blog',
+//   utterancesGitHubLabel: '博客评论',
 
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
@@ -43,7 +43,7 @@ module.exports = {
   isPreviewImageSupportEnabled: false,
 
   // set null to remove from year
-  copyRightFromYear: 2019,
+  copyRightFromYear: 2022,
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
